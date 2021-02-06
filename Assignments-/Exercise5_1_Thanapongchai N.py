@@ -1,0 +1,8 @@
+X = int(input("Number = "))+int(input("Number = "))
+print(X)
+A = int(input("Number = "))-int(input("Number = "))
+print(A)
+Q = int(input("Number = "))*int(input("Number = "))
+print(Q)
+O = int(input("Number = "))/int(input("Number = "))
+print(O)
